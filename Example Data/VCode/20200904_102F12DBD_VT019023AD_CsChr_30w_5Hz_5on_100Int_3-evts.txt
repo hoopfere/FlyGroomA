@@ -1,0 +1,21 @@
+Offset: 0, Movie: MoviePathHere, DataFile: (null)
+Tracks: antennal cleaning, Head cleaning, Wing cleaning, Abdominal cleaning, Notum cleaning, genital cleaning, Front leg rubbing, front proximal leg rub , Back leg rubbing, proboscis cleaning, ventral head , Walking, first leg notum , Standing still, 1st and 2nd leg rub, 2nd and 3rd leg rub, slip/jump, ventral front cleaning, stimulus ON, backing up, eye, nodding, top eye
+Time,Duration,TrackName,comment
+
+0,28796,Standing still,(null)
+100133,133,top eye,(null)
+100266,33668,Standing still,(null)
+28729,5006,stimulus ON,(null)
+28796,100,backing up,(null)
+28963,200,Standing still,(null)
+29163,100,top eye,(null)
+29263,333,Standing still,(null)
+29596,133,top eye,(null)
+29729,167,Standing still,(null)
+29996,34636,Standing still,(null)
+63798,5005,stimulus ON,(null)
+64631,133,top eye,(null)
+64764,34602,Standing still,(null)
+98866,5005,stimulus ON,(null)
+99366,300,top eye,(null)
+99633,500,Standing still,(null)
