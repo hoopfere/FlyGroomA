@@ -9,3 +9,6 @@ Fly Grooming Analysis GUI
 5.	Install MATLAB Runtime to Program Files folder.
 6.	Installation can take several minutes.
 7.	After installation, open FlyGroomA app from the Applications menu.
+
+# Testing FlyGroomA
+Download the Example Data folder for text files and behav_param.csv files to test the software
