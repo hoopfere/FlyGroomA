@@ -1,0 +1,6 @@
+BehaviorClass,ClassOrder,R1,G1,B1,Behavior,BehaviorOrder,R2,G2,B2
+class_head_cleaning,1,1,0,0,head,1,1,0,0
+class_abdominal_cleaning,2,0,1,0,abdominal,2,0,1,0
+class_wing_cleaning,3,0,0,1,wing,3,0,0,1
+class_leg_rubbing,4,1,1,0,rubbing,4,1,1,0
+class_thorax_cleaning,5,1,0,1,thorax,5,1,0,1
