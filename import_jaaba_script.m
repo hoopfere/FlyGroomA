@@ -1,4 +1,4 @@
-case 'BORIS'
+/fcase 'BORIS'
                     %% Convert BORIS to mat files
 
                     % Load the events from the file(s).
